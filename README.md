@@ -1,12 +1,4 @@
-# snake-game
-
-## Snake Game - to create my first video game
-
-
-
-### Built with HTML, CSS and JavaScript
-
-# Get Fed
+# Snake Game
 
 ## Table of Contents
 * [Description](#description)
@@ -17,19 +9,16 @@
 * [Questions](#questions)
 
 ## Description
- Snake Game is a grid grid game, Chase the food and see your snake gain in length
+
+Snake Game is a grid grid game, Chase the food and see your snake gain in length
 
 Features to be implemented:
 
 ## Installation
+
 Users must install <a href="https://nodejs.org/en/" target="_blank">Node.js</a> and download the code from the <a href="https://github.com/tygrski/snake-game" target="_blank">github repo</a>
+
 ## Usage
-Click the link above and you will be directed to Get Fed, which will look something like this: 
 
-![screencapture-get-fed-project-herokuapp-2022-01-20-12_30_26 (2)](https://user-images.githubusercontent.com/86434738/150391248-24fe7e6e-d7bf-44dd-8f19-f3ad66d7c1a7.jpg)
-
-
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
-
-Copyright 2021
+In your terminal of you IDE , open a node terminal and rin "live-server"
+Use your mouse up, down, left and right arrows to move the snake to chase the food
