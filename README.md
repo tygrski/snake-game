@@ -2,7 +2,7 @@
 
 ## Snake Game - to create my first video game
 
-## Ins
+
 
 ### Built with HTML, CSS and JavaScript
 
@@ -22,7 +22,7 @@
 Features to be implemented:
 
 ## Installation
-Users must install node.js(https://nodejs.org/en/)
+Users must install (node.js)(https://nodejs.org/en/)
 ## Usage
 Click the link above and you will be directed to Get Fed, which will look something like this: 
 
