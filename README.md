@@ -22,7 +22,7 @@
 Features to be implemented:
 
 ## Installation
-Users must install (node.js)(https://nodejs.org/en/)
+Users must install <a href="https://nodejs.org/en/" target="_blank">Node.js</a>
 ## Usage
 Click the link above and you will be directed to Get Fed, which will look something like this: 
 
