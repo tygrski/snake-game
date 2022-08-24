@@ -1,11 +1,11 @@
 # Snake Game
+Live Link
+https://tygrski.github.io/snake-game/
 
 ## Table of Contents
 * [Description](#description)
-* [Live Link](#live link)
 * [Installation](#installation)
 * [Usage](#usage)
-
 
 ## Description
 
@@ -13,9 +13,6 @@ Snake Game is a grid grid game, Chase the food and see your snake gain in length
 
 Features to be implemented:
 
-## Live Link
-
- https://tygrski.github.io/snake-game/
 
 ## Installation
 
