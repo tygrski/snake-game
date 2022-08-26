@@ -29,6 +29,7 @@ Use your mouse up, down, left and right arrows to move the snake to chase the fo
 ![SnakeGIF](https://user-images.githubusercontent.com/77369211/186801751-5ba8e2fd-4501-43a1-8bdc-6a7116d5f276.gif)
 ![SnakeGIF](https://user-images.githubusercontent.com/77369211/186801751-5ba8e2fd-4501-43a1-8bdc-6a7116d5f276.gif)
 ![SnakeGIF](https://user-images.githubusercontent.com/77369211/186801751-5ba8e2fd-4501-43a1-8bdc-6a7116d5f276.gif)
+![SnakeGIF](https://user-images.githubusercontent.com/77369211/186801751-5ba8e2fd-4501-43a1-8bdc-6a7116d5f276.gif)
 
 
 
