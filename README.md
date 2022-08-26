@@ -25,7 +25,7 @@ you should see a display similar to this in your browser:
 ## Usage
 
 In your terminal of you IDE , open a node terminal and run "live-server"
-Use your mouse up, down, left and right arrows to move the snake to chase the food.
+Use your mouse up, down, left and right arrows to move the snake to chase the food.<br>
 ![SnakeGIF](https://user-images.githubusercontent.com/77369211/186801751-5ba8e2fd-4501-43a1-8bdc-6a7116d5f276.gif)
 
 
