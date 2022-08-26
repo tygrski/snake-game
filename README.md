@@ -18,9 +18,15 @@ Features to be implemented:
 
 Users must install <a href="https://nodejs.org/en/" target="_blank">Node.js</a> and download the code from the <a href="https://github.com/tygrski/snake-game" target="_blank">github repo</a>
 
-## Usage
-
-In your terminal of you IDE , open a node terminal and rin "live-server"
-Use your mouse up, down, left and right arrows to move the snake to chase the food
+you should see a display similar to this in your browser:
 
 ![snakegame](https://user-images.githubusercontent.com/77369211/185724678-4deab4b6-041f-477c-9567-204b1ff8d16c.jpg)
+
+## Usage
+
+In your terminal of you IDE , open a node terminal and run "live-server"
+Use your mouse up, down, left and right arrows to move the snake to chase the food.
+![SnakeGIF](https://user-images.githubusercontent.com/77369211/186801751-5ba8e2fd-4501-43a1-8bdc-6a7116d5f276.gif)
+
+
+
